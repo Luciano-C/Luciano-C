@@ -46,6 +46,7 @@ NumPy | Scikit-Learn.  -->
 <p align="left">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
+(&nbsp;)(&nbsp;)
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50"/>
 
