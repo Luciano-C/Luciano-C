@@ -15,7 +15,7 @@
 </ul>
 <br>
 
-<h3 align="left">Contact Me:</h3>
+<h3 align="left">📮 Contact Me:</h3>
 
 <ul>
     <li> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Aiga_mail.svg" alt="" height="15" width="18" />&nbsp;&nbsp;Email: luciano.cabrales@gmail.com</li>
