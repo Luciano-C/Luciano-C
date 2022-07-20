@@ -8,9 +8,35 @@ Javascript | Python | React | Flask | HTML | CSS | Bootstrap | GIT | MySQL | Mon
 NumPy | Scikit-Learn. 
 
 <p align="left">
-Python: <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+
+<img src="" alt="react" width="40" height="40"/>
+
+<img src="" alt="react" width="40" height="40"/>
+
+<img src="" alt="react" width="40" height="40"/>
+
+<img src="" alt="react" width="40" height="40"/>
+
+<img src="" alt="react" width="40" height="40"/>
+
+<img src="" alt="react" width="40" height="40"/>
+
+
+
 </p>
 
 💡 Currently Learning: TypeScript | NextJS | NestJS | Django.
