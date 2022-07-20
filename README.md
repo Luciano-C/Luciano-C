@@ -4,8 +4,8 @@
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-Javascript | Python | React | Flask | HTML | CSS | Bootstrap | GIT | MySQL | MongoDB | Pandas |
-NumPy | Scikit-Learn. 
+<!-- Javascript | Python | React | Flask | HTML | CSS | Bootstrap | GIT | MySQL | MongoDB | Pandas |
+NumPy | Scikit-Learn.  -->
 
 <p align="left">
 
@@ -39,7 +39,22 @@ NumPy | Scikit-Learn.
 
 </p>
 
-💡 Currently Learning: TypeScript | NextJS | NestJS | Django.
+<p align="left">
+
+<h3 align="left">💡 Currently Learning:</h3>
+TypeScript | NextJS | NestJS 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="50" height="50"/>
+
+
+</p>
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-C&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
