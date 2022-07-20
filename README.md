@@ -54,9 +54,10 @@ NumPy | Scikit-Learn.  -->
 </p>
 
 
-<h3 align="left">Some stats</h3>
+<h3 align="left">⛳ Some stats:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-C&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-C&layout=compact&theme=dark))](https://github.com/Luciano-C/github-readme-stats)
 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
