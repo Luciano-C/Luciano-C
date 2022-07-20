@@ -7,5 +7,11 @@ NumPy | Scikit-Learn.
 
 💡 Currently Learning: TypeScript | NextJS | NestJS | Django.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-C)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-C&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-C&layout=compact&theme=dark))](https://github.com/Luciano-C/github-readme-stats)
+
+ title_color: "fff",
+    icon_color: "79ff97",
+    text_color: "9f9f9f",
+    bg_color: "151515",
