@@ -47,11 +47,11 @@ NumPy | Scikit-Learn.  -->
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
 
-&nbsp; 
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50"/>
 
-&nbsp; 
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="50" height="50"/>
 
