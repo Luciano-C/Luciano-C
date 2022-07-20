@@ -11,7 +11,7 @@ NumPy | Scikit-Learn.
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/>
 </p>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> </a>
 💡 Currently Learning: TypeScript | NextJS | NestJS | Django.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-C&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
