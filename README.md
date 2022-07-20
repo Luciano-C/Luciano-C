@@ -15,6 +15,17 @@
 </ul>
 <br>
 
+<h3 align="left">Contact Me:</h3>
+
+<ul>
+    <li> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Aiga_mail.svg" alt="" height="15" width="18" />&nbsp;&nbsp;Email: luciano.cabrales@gmail.com</li>
+    <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="15" width="18" />&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/luciano-cabrales-ferrer/</li>
+</ul>
+
+
+
+
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <!-- Javascript | Python | React | Flask | HTML | CSS | Bootstrap | GIT | MySQL | MongoDB | Pandas |
 NumPy | Scikit-Learn.  -->
