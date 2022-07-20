@@ -33,7 +33,7 @@ NumPy | Scikit-Learn.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/>
 
-<img src="https://es.m.wikipedia.org/wiki/Archivo:Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
 
 
 
