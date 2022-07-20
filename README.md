@@ -23,9 +23,9 @@ NumPy | Scikit-Learn.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 
-<img src="" alt="react" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 
-<img src="" alt="react" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="40" height="40"/>
 
 <img src="" alt="react" width="40" height="40"/>
 
