@@ -39,17 +39,17 @@ NumPy | Scikit-Learn.  -->
 
 </p>
 
-<p align="left">
+
 
 <h3 align="left">💡 Currently Learning:</h3>
-TypeScript | NextJS | NestJS 
+
+<p align="left">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="50" height="50"/>
-
 
 </p>
 
