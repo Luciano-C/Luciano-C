@@ -3,7 +3,7 @@
 ### I'm a Full Stack Developer learning a little bit of everything.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <!-- Javascript | Python | React | Flask | HTML | CSS | Bootstrap | GIT | MySQL | MongoDB | Pandas |
 NumPy | Scikit-Learn.  -->
 
@@ -41,7 +41,7 @@ NumPy | Scikit-Learn.  -->
 
 
 
-<h3 align="left">Currently Learning:</h3>
+<h3 align="left">💡 Currently Learning:</h3>
 
 <p align="left">
 
