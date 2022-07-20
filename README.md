@@ -7,10 +7,10 @@
 Javascript | Python | React | Flask | HTML | CSS | Bootstrap | GIT | MySQL | MongoDB | Pandas |
 NumPy | Scikit-Learn. 
 
-<div style="display:flex; flex-direction:column;">
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>
-<span>Python</span>
-</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/>
+</p>
 
 💡 Currently Learning: TypeScript | NextJS | NestJS | Django.
 
