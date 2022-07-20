@@ -40,7 +40,7 @@ NumPy | Scikit-Learn.  -->
 
 </p>
 
-
+<br>
 
 <h3 align="left">💡 Currently Learning:</h3>
 
@@ -54,6 +54,7 @@ NumPy | Scikit-Learn.  -->
 
 </p>
 
+<br>
 
 <h3 align="left">🖥️ Some stats:</h3>
 
