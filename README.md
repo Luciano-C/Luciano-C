@@ -4,9 +4,14 @@
 
 <h3 align="left">📘 About Me:</h3>
 <ul>
-<li>I'm a Full Stack Developer and Chemical Engineer.</li>
-<li>Areas of interest: Full Stack Development, Back End, Data Science.</li>
-<li>Current goals: Improving my coding skills in Python and Javascript and gaining experience.</li>
+    <li>I'm a Full Stack Developer and Chemical Engineer.</li>
+    <li>Areas of interest: Full Stack Development, Back End, Data Science.</li>
+    <li>Current goals: <br>
+        <ul>
+            <li>Improve my coding skills in Python and Javascript.</li>
+            <li>Gain experience in the tech world.</li>
+        </ul> 
+ 
 </ul>
 <br>
 
