@@ -1,8 +1,13 @@
 
 ## Hi! I'm Luciano 👋
 
-### I'm a Full Stack Developer learning a little bit of everything.
 
+<h3 align="left">📘 About Me:</h3>
+<ul>
+<li>I'm a Full Stack Developer and Chemical Engineer.</li>
+<li>Areas of interest: Full Stack Development, Back End, Data Science.</li>
+</ul>
+<br>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <!-- Javascript | Python | React | Flask | HTML | CSS | Bootstrap | GIT | MySQL | MongoDB | Pandas |
