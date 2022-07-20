@@ -7,7 +7,7 @@
 Javascript | Python | React | Flask | HTML | CSS | Bootstrap | GIT | MySQL | MongoDB | Pandas |
 NumPy | Scikit-Learn. 
 
-<div style="display:flex; flex-direction:column">
+<div style="display:flex; flex-direction:column;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>
 <span>Python</span>
 </div>
