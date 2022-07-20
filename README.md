@@ -6,6 +6,7 @@
 <ul>
 <li>I'm a Full Stack Developer and Chemical Engineer.</li>
 <li>Areas of interest: Full Stack Development, Back End, Data Science.</li>
+<li>Current goals: Improving my coding skills in Python and Javascript and gaining experience.</li>
 </ul>
 <br>
 
