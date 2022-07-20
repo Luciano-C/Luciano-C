@@ -29,11 +29,11 @@ NumPy | Scikit-Learn.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 
-<img src="" alt="react" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
 
-<img src="" alt="react" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/>
 
-<img src="" alt="react" width="40" height="40"/>
+<img src="" alt="Scikit Learn" width="40" height="40"/>
 
 
 
