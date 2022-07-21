@@ -10,7 +10,8 @@
         <ul>
             <li>Improve my coding skills in Python and Javascript.</li>
             <li>Gain experience in the tech world.</li>
-        </ul> 
+        </ul>
+    <li>Location: Arica, Chile.</li> 
  
 </ul>
 <br>
