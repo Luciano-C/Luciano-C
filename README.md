@@ -21,6 +21,7 @@
 <ul>
     <li> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Aiga_mail.svg" alt="" height="15" width="18" />&nbsp;&nbsp;Email: luciano.cabrales@gmail.com</li>
     <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="15" width="18" />&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/luciano-cabrales-ferrer/</li>
+    <li><img src="https://www.svgrepo.com/show/130546/world-wide-web.svg" alt="" height="15" width="18" />&nbsp;&nbsp;Portfolio: https://www.lucianocabrales.com</li>
 </ul>
 
 <br>
