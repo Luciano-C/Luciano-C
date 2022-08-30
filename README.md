@@ -85,5 +85,5 @@ NumPy | Scikit-Learn.  -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-C&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-C&layout=compact&theme=dark&exclude_repo=Diplomado-Intro-Mineria-Datos-Proyecto-1,Diplomado-Intro-Mineria-Datos-Proyecto-2,Diplomado-Intro-Mineria-Datos-Proyecto-3,Covid-Analysis-Python)](https://github.com/Luciano-C/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-C&layout=compact&theme=dark&exclude_repo=Diplomado-Intro-Mineria-Datos-Proyecto-1,Diplomado-Intro-Mineria-Datos-Proyecto-2,Diplomado-Intro-Mineria-Datos-Proyecto-3,Covid-Analysis-Python,Pandas-Request-Rick-And-Morty-Api)](https://github.com/Luciano-C/github-readme-stats)
 
