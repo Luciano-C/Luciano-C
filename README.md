@@ -78,6 +78,8 @@ NumPy | Scikit-Learn.  -->
 
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="50" height="50"/> -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50"/>
+&nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="50"/>
 
 </p>
 
