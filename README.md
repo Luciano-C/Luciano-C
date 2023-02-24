@@ -4,15 +4,17 @@
 
 <h3 align="left">📘 About Me:</h3>
 <ul>
-    <li>I'm a Full Stack Developer and Chemical Engineer.</li>
-    <li>Areas of interest: Full Stack Development, Back End, Data Science.</li>
+    <li>I am a Full Stack Developer with a background in Chemical Engineering and an interest in Data Science and Machine Learning.</li>
+    <li>The areas that I am focusing on lean towards Data Science, Machine Learning, Full Stack Development and Back End.</li>
     <li>Current goals: <br>
         <ul>
-            <li>Improve my coding skills in Python and Javascript.</li>
-            <li>Gain experience in the tech world.</li>
+            <li>Improve my coding skills in Python and JavaScript.</li>
+            <li>Gain experience in the tech industry.</li>
+            <li>Develop expertise in machine learning techniques and algorithms.</li>
+            <li>Build and deploy data driven applications that use machine learning models.</li>
+            <li>Explore deep learning techniques and frameworks such as TensorFlow or PyTorch.</li>
         </ul>
     <li>Location: Arica, Chile.</li> 
- 
 </ul>
 <br>
 
@@ -38,6 +40,8 @@ NumPy | Scikit-Learn.  -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/>
 &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+&nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50"/>
 &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 &nbsp; &nbsp;
@@ -77,8 +81,6 @@ NumPy | Scikit-Learn.  -->
 &nbsp; &nbsp; -->
 
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="50" height="50"/> -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50"/>
-&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="50"/>
 
 </p>
