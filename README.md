@@ -5,7 +5,7 @@
 <h3 align="left">📘 About Me:</h3>
 
 <p>
-I am a former Chemical Engineer who self-taught programming in 2020. Subsequently, I completed a Diploma in Python and Data Mining, followed by a Full Stack Development bootcamp. Currently, I lead the development team at my company, where I have launched an E-Commerce platform and developed an application for optimizing sales based on customers' purchase histories and product purchase prices. My experience is primarily focused on back-end development with Python, front-end development with React, and deploying applications using AWS. I enjoy participating in projects that create value through data, especially those involving Machine Learning or Deep Learning techniques.
+I am a Full Stack Developer who self-taught programming in 2020. Subsequently, I completed a Diploma in Python and Data Mining, followed by a Full Stack Development bootcamp. Currently, I lead the development team at my company, where I have launched an E-Commerce platform and developed an application for optimizing sales based on customers' purchase histories and product purchase prices. My experience is primarily focused on back-end development with Python, front-end development with React, and deploying applications using AWS. I enjoy participating in projects that create value through data, especially those involving Machine Learning or Deep Learning techniques.
 </p>
 
 <br>
